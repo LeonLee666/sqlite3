@@ -5,7 +5,7 @@ CFLAGS = $(BASICOPTS)
 
 
 
-TARGETDIR_shell=.
+TARGETDIR_shell=build
 
 
 all: $(TARGETDIR_shell)/shell
