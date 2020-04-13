@@ -15,6 +15,7 @@
 #ifndef SQLITEINT_H
 #define SQLITEINT_H
 
+#include "debug.h"
 /* Special Comments:
 **
 ** Some comments have special meaning to the tools that measure test

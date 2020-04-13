@@ -1,6 +1,6 @@
 
 CC = gcc
-BASICOPTS = -pthread -ldl -g -DSQLITE_ENABLE_EXPLAIN_COMMENTS=1 -DSQLITE_DEBUG=1
+BASICOPTS = -pthread -ldl -g
 CFLAGS = $(BASICOPTS)
 
 

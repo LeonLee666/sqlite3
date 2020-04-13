@@ -1,0 +1,9 @@
+#ifndef DEBUG_H
+#define DEBUG_H
+
+#define SQLITE_TEST
+#define SQLITE_DEBUG 1
+#define WHERETRACE_ENABLED
+#define SQLITE_ENABLE_EXPLAIN_COMMENTS 1
+
+#endif
