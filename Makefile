@@ -1,6 +1,6 @@
 
 CC = gcc
-BASICOPTS = -pthread -ldl -g
+BASICOPTS = -g
 CFLAGS = $(BASICOPTS)
 
 
